@@ -174,11 +174,11 @@ section {
 .profile-pictcha {
    
     border-radius: 50%;
-    width: 550px;
+    width: 400px;
     height: 420px;
     object-fit: cover;
-    margin-right: 70px;
-    margin-top: -60px;
+    margin-right: 80px;
+    margin-top: -50px;
    
 }
 
